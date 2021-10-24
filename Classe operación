@@ -26,5 +26,5 @@ a=10
 b=4
 print ("Suma: "+str(a)+"+"+str(b)+"="+str(op.sumar(a,b)))
 print ("Resta: "+str(a)+"-"+str(b)+"="+str(op.restar(a,b)))
-print ("Multiplicación: "+str(a)+"*"+str(b)+"="+str(op.multiplicar(a,b)))
-print ("División: "+str(a)+"/"+str(b)+"="+str(op.dividir(a,b)))
+print ("Multiplicacion: "+str(a)+"*"+str(b)+"="+str(op.multiplicar(a,b)))
+print ("Division: "+str(a)+"/"+str(b)+"="+str(op.dividir(a,b)))
